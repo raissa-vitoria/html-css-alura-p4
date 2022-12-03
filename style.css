@@ -164,3 +164,11 @@ td, th {
 .principal p {
 	margin: 0 0 1em;
 }
+
+.principal em {
+	font-weight: bold;
+}
+
+.principal em {
+	font-style: italic;
+}
