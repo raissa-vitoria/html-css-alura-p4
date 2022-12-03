@@ -159,6 +159,7 @@ td, th {
     text-aling: center;
 	font-size: 2em;
 	margin: 0 0 1em;
+	clear: left;
 }
 
 .principal p {
