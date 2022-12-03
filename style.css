@@ -1,3 +1,5 @@
+body { 
+  família da fonte: 'Montserrat', sem serifa;
 header {
 	background: #BBBBBB;
 	padding: 20px 0;
@@ -183,3 +185,4 @@ td, th {
 .imagembeneficios {
 	width: 60%;
 }
+
