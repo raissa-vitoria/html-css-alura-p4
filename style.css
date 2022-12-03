@@ -172,6 +172,11 @@ td, th {
 .principal em {
 	font-style: italic;
 }
+
+.utensilios {
+	width: 150px;
+	float: left;
+}
   
 .imagembeneficios {
 	width: 60%;
